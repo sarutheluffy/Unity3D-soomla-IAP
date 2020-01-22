@@ -13,15 +13,12 @@ Note***
 1. Go to menu bar in your unity Window//Soomla and change the soomla sectret key and make it as complex as you can
 
 for Android:
-if you are building for android then in the window/soomla check the android chekbox and don't forget to paste you SHA Key from the IAP and SErvice from the 
+if you are building for android then in the window/soomla check the android chekbox and don't forget to paste you SHA Key from the IAP and Service from the 
 developer console.
 
 for IOS:
-simmpli just checkt the ios checkbox.
+simply just checkt the ios checkbox.
 
 
-That's all 
-Thanks
-Regards
-Rinku saru 
-Game Dev.
+That's all
+Cheers
