@@ -6,10 +6,10 @@ Implementation of the soomla plugin in unity3D demo project.
 2. Drag the coreevent and storeevent prefabs from Assets\Soomla\Prefabs folder to the initial scene of your game. <br>
 3. Also drag the UndestroyableObject for the Assets\Prefabs folder to your first scene. <br>
 4. Do all the changes in your ExampleAssets.cs and ExampleWindow.cs and leave everything as it is. <br>
-5. Define you all IAP in the ExampleAssets.cs script and call define all the function to make purchase in the exampleWindow.cs. <br>
+5. Define you all IAP in the ExampleAssets.cs script and call define all the function to make purchase in the ExampleWindow.cs. <br>
 6. When taking refrence of ExampleWindow.cs in another script use namespace i.e using Soomla.Store.Example. <br>
 
-That's it read carefully what the function do inside the <h4>exampleWindow</h4> script and implement your <h4>storeevent</h4>. <br>
+That's it read carefully what the function do inside the <b>ExampleWindow.cs</b> script and implement your <b>StoreEvent.cs</b>. <br>
 
 <h4>Note*** </h4>
 1. Go to menu bar in your unity Window//Soomla and change the soomla secret key and make it as complex as you can for security purpose.<br>
